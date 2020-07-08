@@ -22,5 +22,6 @@ Since I work mostly on my own when it comes to my own projects, I also 👨‍�
 
 ### Hit me up.
 - Twitter: https://twitter.com/BjarnBronsveld
+- Instagram: https://instagram.com/BjarnBronsveld
 - LinkedIn: https://linkedin.com/in/BjarnBronsveld
 - Website: https://bjarn.dev
