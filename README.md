@@ -4,6 +4,6 @@
 </p>
 
 ## Hit me up.
-- 🐦  Twitter: https://twitter.com/BjarnBronsveld
-- 🌎  Website: https://bjarn.dev
-- 💼  LinkedIn: https://linkedin.com/in/BjarnBronsveld
+- Twitter: https://twitter.com/BjarnBronsveld
+- Website: https://bjarn.dev
+- LinkedIn: https://linkedin.com/in/BjarnBronsveld
