@@ -18,7 +18,7 @@ A jack of all trades - yes, I am very 🔥 passionate about what I do. My primar
 
 For automation and other DevOps projects I am also familiar with software such as Ansible, Terraform, Openstack, Linux (mostly Debian & CentOS) and webhosting control panels like Plesk and DirectAdmin.
 
-Since I work mostly on my own when it comes to my own projects, I also 👨‍🎨 design them myself using Sketch.
+Since I work mostly on my own when it comes to my own projects, I also 👨‍🎨  design them myself using Figma.
 
 ### Hit me up.
 - Twitter: https://twitter.com/BjarnBronsveld
