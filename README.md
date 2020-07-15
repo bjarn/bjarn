@@ -4,7 +4,7 @@
 </p>
 
 ### What I do.
-A jack of all trades - yes, I am very 🔥 passionate about what I do. My primary focus lies on DevOps, Android and React development, but also am experienced with: 
+A jack of all trades - yes, I am very 🔥 passionate about what I do. My primary focus is DevOps, Android and React development, but also am experienced with: 
 - Android (Kotlin/Java)
 - iOS (Swift)
 - Vue/Nuxt
